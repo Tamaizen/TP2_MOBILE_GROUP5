@@ -4,7 +4,7 @@ import { Http } from '@angular/http';
 import 'rxjs/add/operator/toPromise';
 import 'rxjs/add/operator/map';
 
-import { Businesses } from '../models/businesses.model';
+
 
 @Injectable()
 export class tccDirectoryService {
